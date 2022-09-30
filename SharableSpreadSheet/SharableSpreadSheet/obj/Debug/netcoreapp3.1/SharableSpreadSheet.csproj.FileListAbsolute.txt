@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.exe
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.deps.json
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.runtimeconfig.json
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.dll
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\bin\Debug\netcoreapp3.1\SharableSpreadSheet.pdb
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.dll
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.pdb
+C:\Users\ASUS\source\repos\SharableSpreadSheet\SharableSpreadSheet\obj\Debug\netcoreapp3.1\SharableSpreadSheet.genruntimeconfig.cache
